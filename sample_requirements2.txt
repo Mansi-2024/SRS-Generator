@@ -1,0 +1,23 @@
+Hostel Management System – Requirement Notes
+
+We are planning to build a hostel management system for students and administrators.
+
+1. The system shall allow students to register using their email ID.
+2. The system must store student personal details securely.
+3. Admin should be able to approve or reject applications.
+4. The application should be fast and user-friendly.
+5. The system shall generate monthly occupancy reports.
+6. It should support around 500 concurrent users.
+7. The system must provide secure login functionality.
+8. Notifications will be sent to students after room allocation.
+9. The software should be flexible for future expansion.
+10. The system shall maintain records of payments.
+11. The application should work efficiently even during peak hours.
+12. The system must allow admin to search student records.
+13. Backup should be taken regularly.
+14. The interface should be simple.
+15. The system shall respond within 2 seconds for most operations.
+
+Additional Notes:
+The project deadline is December.
+The development team will use modern tools.
